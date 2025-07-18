@@ -1,51 +1,66 @@
-# 👋 Hey there! I'm Harshal
+<h1 align="center">👋 Hey there! I'm Harshal</h1>
 
-🎓 I'm an MCA student passionate about building real-world applications using AI and web technologies.
-
-🧠 Currently sharpening my skills in:
-- Java & Python
-- SQL
-- Full-Stack Web Development
-
-💡 I enjoy combining AI APIs with user-centric tools — one such creation is my **AI-powered Mock Interview System**!
-
-🏆 Actively preparing for placements and solving problems on **LeetCode**.
+<p align="center">
+🎓 MCA Student | 💻 Aspiring Full-Stack Developer | 🤖 AI Enthusiast  
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 Currently Sharpening My Skills In:
+- Java & Python  
+- SQL  
+- Full-Stack Web Development  
 
-**Programming Languages:**  
+### 💡 I Love to Build
+I enjoy merging AI APIs with user-focused solutions — like my **AI-Powered Mock Interview System** that helps users simulate and improve their interview experience.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🧾 Programming Languages:
 `C` `C++` `Java` `Python`
 
-**Web Technologies:**  
+#### 🌐 Web Technologies:
 `HTML` `CSS`
 
-**Tools & Technologies:**  
+#### ⚙️ Tools & Technologies:
 `PHP` `MySQL`
 
-**Tools & APIs:**  
+#### 🔌 Tools & APIs:
 `Git` `GitHub` `Gemini API` `Web Speech API`
 
-**Fundamentals:**  
-`OOP` `Data structures and algorithm` `DBMS`
+#### 📚 Core Concepts:
+`OOP` `Data Structures & Algorithms` `DBMS`
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Project
 
-### 🔹 AI-Powered Mock Interview System  
-An intelligent platform that generates interview questions using AI, records and analyzes voice responses, and provides real-time feedback.  
-**Tech Used:** PHP, JavaScript, Gemini AI, Web Speech API, MySQL  
-🔗 *[Add your project link here]*
+#### 🔹 AI-Powered Mock Interview System
+An intelligent platform that:
+- Generates real-time interview questions using AI
+- Records and analyzes voice responses
+- Offers real-time feedback to users
+
+**Tech Stack:** PHP, JavaScript, Gemini AI, Web Speech API, MySQL  
+🔗 [Add your project link here]
 
 ---
 
-## 📫 Connect With Me
+### 🏆 What I'm Up To
+- 📈 Preparing for placements  
+- 💡 Practicing DSA & solving problems on [LeetCode](https://leetcode.com)  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshal-gosavi-7a41242b8)  
+---
+
+### 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 📧 gosaviharshal102@gmail.com  
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate!*
+<p align="center">
+🌱 Always learning | 🚀 Building impactful solutions | 🤝 Let's connect!
+</p>
