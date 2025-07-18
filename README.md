@@ -1,4 +1,5 @@
-## Hi,I'm Harshal
+## Hi, I'm Harshal
+MCA STUDENT | FULL STACK DEVELOPER | AI ENTHUSIAST | PROBLEM SOLVER    
 
 <!--
 **HarshalGosavi27/HarshalGosavi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
