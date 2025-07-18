@@ -56,7 +56,7 @@ An intelligent platform that:
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshal-gosavi-7a41242b8)  
 - 📧 gosaviharshal102@gmail.com  
 
 ---
